@@ -5,4 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1908-recyclable-and-low-fat-products) |
+## String
+|  |
+| ------- |
+| [0664-strange-printer](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0664-strange-printer) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0664-strange-printer](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0664-strange-printer) |
 <!---LeetCode Topics End-->
