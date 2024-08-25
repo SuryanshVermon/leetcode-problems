@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0229-majority-element-ii](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
