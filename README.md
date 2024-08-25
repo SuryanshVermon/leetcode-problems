@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0476-number-complement) |
 ## Math
 |  |
@@ -37,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0287-find-the-duplicate-number](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0031-next-permutation) |
+| [0287-find-the-duplicate-number](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
 | ------- |
@@ -65,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0056-merge-intervals) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
