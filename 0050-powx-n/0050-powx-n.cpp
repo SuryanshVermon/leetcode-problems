@@ -1,22 +1,20 @@
 class Solution {
 public:
     double myPow(double x, int n) {
-        long long absN = abs(static_cast<long long>(n));
-        double ans = 1.0;
-        double currentProduct = x;
-        
-        while (absN > 0) {
-            if (absN % 2 == 1) {
-                ans *= currentProduct;
-            }
-            currentProduct *= currentProduct;
-            absN /= 2;
+    double ans =1.0;
+    long long num =n;
+    if(num<0) num =-1*num;
+    while(num){
+        if(num%2){
+            ans= ans *x;
+            num =num-1;
         }
-        
-        if (n < 0) {
-            ans = 1.0 / ans;
+        else{
+            x=x*x;
+            num=num/2;
         }
-        
-        return ans;
+    }
+    if(n<0)ans=(double)(1.0) /(double)(ans);
+    return ans;
     }
 };
