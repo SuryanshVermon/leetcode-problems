@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0229-majority-element-ii](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [1325-path-with-maximum-probability](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1325-path-with-maximum-probability) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,4 +100,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0062-unique-paths) |
+## Graph
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1325-path-with-maximum-probability) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1325-path-with-maximum-probability) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
