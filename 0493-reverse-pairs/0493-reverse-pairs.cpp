@@ -34,9 +34,9 @@ private:
 void mergeSort(vector<int> &nums, int low, int high,int &reversePairsCounts) {
     if (low >= high) return;
     int mid = (low + high) / 2 ;
-    mergeSort(nums, low, mid,reversePairsCounts);  // left half
-    mergeSort(nums, mid + 1, high,reversePairsCounts); // right half
-    merge(nums, low, mid, high,reversePairsCounts);  // merging sorted halves
+    mergeSort(nums, low, mid,reversePairsCounts); 
+    mergeSort(nums, mid + 1, high,reversePairsCounts);
+    merge(nums, low, mid, high,reversePairsCounts); 
 }
     public:
     int reversePairs(vector<int>& nums) {
