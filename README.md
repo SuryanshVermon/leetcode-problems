@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0664-strange-printer) |
+| [3395-minimum-length-of-anagram-concatenation](https://github.com/SuryanshVermon/leetcode-problems/tree/master/3395-minimum-length-of-anagram-concatenation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -100,10 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0001-two-sum) |
 | [0229-majority-element-ii](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [3395-minimum-length-of-anagram-concatenation](https://github.com/SuryanshVermon/leetcode-problems/tree/master/3395-minimum-length-of-anagram-concatenation) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0229-majority-element-ii) |
+| [3395-minimum-length-of-anagram-concatenation](https://github.com/SuryanshVermon/leetcode-problems/tree/master/3395-minimum-length-of-anagram-concatenation) |
 ## Recursion
 |  |
 | ------- |
