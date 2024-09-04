@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0258-add-digits) |
 | [0592-fraction-addition-and-subtraction](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0592-fraction-addition-and-subtraction) |
+| [0906-walking-robot-simulation](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0493-reverse-pairs) |
+| [0906-walking-robot-simulation](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0906-walking-robot-simulation) |
 | [1325-path-with-maximum-probability](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1325-path-with-maximum-probability) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2035-count-sub-islands) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0001-two-sum) |
 | [0229-majority-element-ii](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0229-majority-element-ii) |
+| [0906-walking-robot-simulation](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/SuryanshVermon/leetcode-problems/tree/master/3395-minimum-length-of-anagram-concatenation) |
 ## Counting
