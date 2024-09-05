@@ -193,4 +193,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1187-print-foobar-alternately](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1187-print-foobar-alternately) |
 | [1203-print-in-order](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1203-print-in-order) |
+| [1316-fizz-buzz-multithreaded](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1316-fizz-buzz-multithreaded) |
 <!---LeetCode Topics End-->
