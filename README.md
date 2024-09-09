@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2411-spiral-matrix-iv) |
 ## Array
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2411-spiral-matrix-iv) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2664-maximize-greatness-of-an-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2664-maximize-greatness-of-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [2035-count-sub-islands](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2411-spiral-matrix-iv) |
 ## Stack
 |  |
 | ------- |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
+| [2411-spiral-matrix-iv](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Monotonic Stack
 |  |
