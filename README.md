@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0476-number-complement) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 ## Math
 |  |
