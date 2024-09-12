@@ -1,17 +1,14 @@
 class NumArray {
 public:
-    vector<int>nums;
-    NumArray(vector<int>& nums) {
-        this->nums = nums;
+    vector<int>& presum;;
+    NumArray(vector<int>& nums) :presum(nums) {
+        for(int i=1;i<presum.size();++i)
+        presum[i] +=presum[i-1];
     }
     
     int sumRange(int left, int right) {
-        int sum=0;
-        while(left<=right){
-            sum += nums[left];
-            left ++;
-        }
-        return sum;
+        if(left ==0) return presum[right];
+        return presum[right] - presum[left-1];
     }
 };
 
