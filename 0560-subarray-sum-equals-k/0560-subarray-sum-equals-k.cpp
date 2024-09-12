@@ -12,7 +12,7 @@ public:
             if (map.find(sum - k) != map.end())
                 count += map[sum - k];
                 
-            map[sum] += 1;
+            map[sum]++;
         }
         return count;
     }
