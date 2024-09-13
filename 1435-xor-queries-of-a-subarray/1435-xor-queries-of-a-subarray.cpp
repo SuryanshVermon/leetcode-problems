@@ -1,22 +1,27 @@
 class Solution {
 public:
     vector<int> xorQueries(vector<int>& arr, vector<vector<int>>& queries) {
-        vector<int> result;  
+        int n = arr.size();
+        vector<int> pre(n);
+        pre[0] = arr[0];
         
-
-        for (const auto& query : queries) {
-            int left = query[0];  
-            int right = query[1]; 
-            int currentXor = 0;    
-            
-            
-            for (int i = left; i <= right; ++i) {
-                currentXor ^= arr[i];
-            }
-            
-            result.push_back(currentXor);  
+   
+        for (int i = 1; i < n; ++i) {
+            pre[i] = pre[i - 1] ^ arr[i];
         }
         
-        return result;  
+        std::vector<int> res(queries.size());
+       
+        for (int k = 0; k < queries.size(); ++k) {
+            int i = queries[k][0];
+            int j = queries[k][1];
+            if (i == 0) {
+                res[k] = pre[j];
+            } else {
+                res[k] = pre[j] ^ pre[i - 1];
+            }
+        }
+        
+        return res;
     }
 };
