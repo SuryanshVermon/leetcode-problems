@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0476-number-complement) |
+| [1435-xor-queries-of-a-subarray](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2656-count-the-number-of-beautiful-subarrays) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0906-walking-robot-simulation) |
 | [0966-binary-subarrays-with-sum](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1325-path-with-maximum-probability](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1325-path-with-maximum-probability) |
+| [1435-xor-queries-of-a-subarray](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2035-count-sub-islands) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
+| [1435-xor-queries-of-a-subarray](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 ## Number Theory
