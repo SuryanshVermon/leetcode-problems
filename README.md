@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0592-fraction-addition-and-subtraction) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
+| [0179-largest-number](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0056-merge-intervals) |
+| [0179-largest-number](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0539-minimum-time-difference](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0539-minimum-time-difference) |
 | [2664-maximize-greatness-of-an-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2664-maximize-greatness-of-an-array) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0179-largest-number) |
 | [2664-maximize-greatness-of-an-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2664-maximize-greatness-of-an-array) |
 ## Prefix Sum
 |  |
