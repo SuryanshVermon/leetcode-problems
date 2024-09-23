@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2755-extra-characters-in-a-string](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2755-extra-characters-in-a-string) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/SuryanshVermon/leetcode-problems/tree/master/3395-minimum-length-of-anagram-concatenation) |
 ## Dynamic Programming
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0664-strange-printer](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0664-strange-printer) |
+| [2755-extra-characters-in-a-string](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2755-extra-characters-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2664-maximize-greatness-of-an-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2664-maximize-greatness-of-an-array) |
+| [2755-extra-characters-in-a-string](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2656-count-the-number-of-beautiful-subarrays) |
+| [2755-extra-characters-in-a-string](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2755-extra-characters-in-a-string) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/SuryanshVermon/leetcode-problems/tree/master/3395-minimum-length-of-anagram-concatenation) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Counting
@@ -323,4 +327,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2755-extra-characters-in-a-string](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
