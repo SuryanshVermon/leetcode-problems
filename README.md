@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0729-my-calendar-i](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0729-my-calendar-i) |
 | [0837-most-common-word](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0837-most-common-word) |
 | [0906-walking-robot-simulation](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0906-walking-robot-simulation) |
 | [0966-binary-subarrays-with-sum](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0493-reverse-pairs) |
+| [0729-my-calendar-i](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0729-my-calendar-i) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Hash Table
 |  |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0493-reverse-pairs) |
+| [0729-my-calendar-i](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0729-my-calendar-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0493-reverse-pairs) |
+| [0729-my-calendar-i](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0729-my-calendar-i) |
 ## Greedy
 |  |
 | ------- |
@@ -307,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
+| [0729-my-calendar-i](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0729-my-calendar-i) |
 ## Sliding Window
 |  |
 | ------- |
