@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0731-my-calendar-ii) |
 | [0837-most-common-word](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0837-most-common-word) |
+| [0859-design-circular-deque](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0906-walking-robot-simulation) |
 | [0966-binary-subarrays-with-sum](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1325-path-with-maximum-probability](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1325-path-with-maximum-probability) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0729-my-calendar-i](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0859-design-circular-deque) |
 ## Sliding Window
 |  |
 | ------- |
@@ -350,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SuryanshVermon/leetcode-problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
