@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0229-majority-element-ii) |
+| [0432-all-oone-data-structure](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0432-all-oone-data-structure) |
 | [0525-contiguous-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0837-most-common-word](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0837-most-common-word) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0237-delete-node-in-a-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0860-design-circular-queue) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
+| [0432-all-oone-data-structure](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0859-design-circular-deque) |
@@ -361,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0859-design-circular-deque](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0860-design-circular-queue) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
