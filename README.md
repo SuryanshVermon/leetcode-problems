@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2664-maximize-greatness-of-an-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2664-maximize-greatness-of-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2755-extra-characters-in-a-string) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2664-maximize-greatness-of-an-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2664-maximize-greatness-of-an-array) |
 ## Matrix
 |  |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0539-minimum-time-difference](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0539-minimum-time-difference) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2664-maximize-greatness-of-an-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2664-maximize-greatness-of-an-array) |
 ## Binary Search
 |  |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2755-extra-characters-in-a-string](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SuryanshVermon/leetcode-problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
