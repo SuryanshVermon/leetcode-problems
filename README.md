@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0664-strange-printer) |
 | [0837-most-common-word](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0837-most-common-word) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0567-permutation-in-string](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0432-all-oone-data-structure) |
 | [0525-contiguous-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0837-most-common-word](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0837-most-common-word) |
 | [0906-walking-robot-simulation](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Brainteaser
