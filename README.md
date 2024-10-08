@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0539-minimum-time-difference](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0539-minimum-time-difference) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2664-maximize-greatness-of-an-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2664-maximize-greatness-of-an-array) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1325-path-with-maximum-probability) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2803-modify-graph-edge-weights](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
 |  |
