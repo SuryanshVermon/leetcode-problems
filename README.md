@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1694-make-sum-divisible-by-p) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1923-sentence-similarity-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0898-transpose-matrix) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2035-count-sub-islands](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2411-spiral-matrix-iv) |
