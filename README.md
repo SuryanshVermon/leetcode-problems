@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2664-maximize-greatness-of-an-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2664-maximize-greatness-of-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2755-extra-characters-in-a-string) |
+| [2756-buy-two-chocolates](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2756-buy-two-chocolates) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SuryanshVermon/leetcode-problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2664-maximize-greatness-of-an-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2664-maximize-greatness-of-an-array) |
+| [2756-buy-two-chocolates](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2756-buy-two-chocolates) |
 ## Binary Search
 |  |
 | ------- |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2664-maximize-greatness-of-an-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2664-maximize-greatness-of-an-array) |
+| [2756-buy-two-chocolates](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2756-buy-two-chocolates) |
 ## Prefix Sum
 |  |
 | ------- |
