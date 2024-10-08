@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0258-add-digits) |
 | [0592-fraction-addition-and-subtraction](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0592-fraction-addition-and-subtraction) |
+| [0898-transpose-matrix](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0906-walking-robot-simulation) |
 | [1806-count-of-matches-in-tournament](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0837-most-common-word) |
 | [0859-design-circular-deque](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0860-design-circular-queue) |
+| [0898-transpose-matrix](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0906-walking-robot-simulation) |
 | [0966-binary-subarrays-with-sum](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [0968-beautiful-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0968-beautiful-array) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
+| [0898-transpose-matrix](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0898-transpose-matrix) |
 | [2035-count-sub-islands](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2411-spiral-matrix-iv) |
