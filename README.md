@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0539-minimum-time-difference](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0564-find-the-closest-palindrome) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0539-minimum-time-difference](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0539-minimum-time-difference) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0432-all-oone-data-structure](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0432-all-oone-data-structure) |
 | [0525-contiguous-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0525-contiguous-array) |
