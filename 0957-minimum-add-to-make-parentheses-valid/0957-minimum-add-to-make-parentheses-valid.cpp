@@ -1,24 +1,16 @@
-#include <stack>
-#include <string>
-using namespace std;
-
 class Solution {
 public:
     int minAddToMakeValid(string s) {
-        stack<char> st;
-        int unmatchedClosing = 0; 
-        for(char &ch : s) {
-            if(ch == '(') {
-                st.push(ch); 
-            }
-            else {
-                if(!st.empty()) {
-                    st.pop();  
-                } else {
-                    unmatchedClosing++;  
-                }
+        int res=0; 
+        int numOpen=0;
+        for(char c:s){
+            if(c=='('){
+                ++numOpen;
+            } else {
+                numOpen >0? numOpen-- : res++;
             }
         }
-        return st.size() + unmatchedClosing;
+        return numOpen+res;
+        
     }
 };
