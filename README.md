@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1619-path-crossing) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1923-sentence-similarity-iii](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1923-sentence-similarity-iii) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-path-crossing](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1619-path-crossing) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1694-make-sum-divisible-by-p) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
