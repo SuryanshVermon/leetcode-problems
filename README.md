@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1923-sentence-similarity-iii](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1923-sentence-similarity-iii) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2755-extra-characters-in-a-string](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2755-extra-characters-in-a-string) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/SuryanshVermon/leetcode-problems/tree/master/3395-minimum-length-of-anagram-concatenation) |
 ## Recursion
