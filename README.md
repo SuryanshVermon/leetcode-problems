@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1619-path-crossing) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1923-sentence-similarity-iii](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
