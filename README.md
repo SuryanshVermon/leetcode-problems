@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
+| [0455-assign-cookies](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0493-reverse-pairs) |
 | [0525-contiguous-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0539-minimum-time-difference) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
 | [1923-sentence-similarity-iii](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1923-sentence-similarity-iii) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0539-minimum-time-difference) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0179-largest-number) |
+| [0455-assign-cookies](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
