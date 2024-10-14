@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1923-sentence-similarity-iii) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2664-maximize-greatness-of-an-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2664-maximize-greatness-of-an-array) |
