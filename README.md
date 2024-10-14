@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0539-minimum-time-difference](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0564-find-the-closest-palindrome) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0432-all-oone-data-structure](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0432-all-oone-data-structure) |
 | [0525-contiguous-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0525-contiguous-array) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0860-design-circular-queue) |
 ## Doubly-Linked List
