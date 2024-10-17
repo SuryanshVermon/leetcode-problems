@@ -2,10 +2,9 @@
  * @param {Object|Array} obj
  * @return {boolean}
  */
-function isEmpty(obj) {
-  if (Array.isArray(obj)) {
-    return obj.length === 0;
-  } else {
-    return Object.keys(obj).length === 0;
-  }
-}
+var isEmpty = function(obj) {
+    for(let key in obj){
+        return false
+    }
+    return true;
+};
