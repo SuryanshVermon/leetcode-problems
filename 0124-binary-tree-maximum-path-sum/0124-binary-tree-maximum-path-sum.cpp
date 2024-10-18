@@ -16,19 +16,12 @@ public:
         if (root == NULL)
             return 0;
 
-        int leftHeight = calculateHeight(root->left);
-        int rightHeight = calculateHeight(root->right);
+        int leftHeight = max(0, calculateHeight(root->left));
+        int rightHeight = max(0, calculateHeight(root->right));
 
         diameter = max(diameter, leftHeight + rightHeight+ root->val);
-        diameter = max(diameter, root->val);
-        diameter = max(diameter, leftHeight + root->val);
-        diameter = max(diameter, rightHeight+ root->val);
 
-        int num = max(leftHeight, rightHeight) + root->val;
-        num = max(num, root->val);
-        num = max(num, rightHeight+ root->val);
-        num = max(num, leftHeight+ root->val);
-        return num;
+        return max(leftHeight, rightHeight) + root->val;
     }
 
     int maxPathSum(TreeNode* root) {
