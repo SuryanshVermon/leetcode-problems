@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0241-different-ways-to-add-parentheses) |
+| [0322-coin-change](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0322-coin-change) |
 | [0664-strange-printer](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0664-strange-printer) |
 | [2755-extra-characters-in-a-string](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2755-extra-characters-in-a-string) |
 ## Bit Manipulation
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0493-reverse-pairs) |
 | [0525-contiguous-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0525-contiguous-array) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0322-coin-change](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0322-coin-change) |
 | [1484-linked-list-in-binary-tree](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2035-count-sub-islands) |
 ## Union Find
