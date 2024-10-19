@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1619-path-crossing) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0898-transpose-matrix](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0906-walking-robot-simulation) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1806-count-of-matches-in-tournament](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0241-different-ways-to-add-parentheses) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Combinatorics
 |  |
 | ------- |
