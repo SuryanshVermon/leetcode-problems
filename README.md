@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0056-merge-intervals) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0455-assign-cookies) |
