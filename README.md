@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0179-largest-number](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0062-unique-paths) |
+| [0224-basic-calculator](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0258-add-digits) |
 | [0539-minimum-time-difference](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0539-minimum-time-difference) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0224-basic-calculator](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0224-basic-calculator) |
 | [0678-valid-parenthesis-string](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
