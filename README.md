@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-beautiful-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0968-beautiful-array) |
 | [1806-count-of-matches-in-tournament](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2155-find-missing-observations](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2155-find-missing-observations) |
+| [2716-prime-subtraction-operation](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Simulation
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2664-maximize-greatness-of-an-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2664-maximize-greatness-of-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2755-extra-characters-in-a-string) |
 | [2756-buy-two-chocolates](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2756-buy-two-chocolates) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/SuryanshVermon/leetcode-problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2716-prime-subtraction-operation) |
 ## Hash Table
 |  |
 | ------- |
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2664-maximize-greatness-of-an-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2664-maximize-greatness-of-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2716-prime-subtraction-operation) |
 | [2756-buy-two-chocolates](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2756-buy-two-chocolates) |
 | [3195-separate-black-and-white-balls](https://github.com/SuryanshVermon/leetcode-problems/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/SuryanshVermon/leetcode-problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -463,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0258-add-digits) |
+| [2716-prime-subtraction-operation](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Concurrency
 |  |
