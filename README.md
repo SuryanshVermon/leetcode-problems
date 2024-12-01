@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2155-find-missing-observations) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2411-spiral-matrix-iv](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Array
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2155-find-missing-observations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2411-spiral-matrix-iv](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2411-spiral-matrix-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1829-maximum-units-on-a-truck) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2586-longest-square-streak-in-an-array) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1746-largest-substring-between-two-equal-characters](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2656-count-the-number-of-beautiful-subarrays) |
