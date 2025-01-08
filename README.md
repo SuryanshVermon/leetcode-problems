@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/SuryanshVermon/leetcode-problems/tree/master/3195-separate-black-and-white-balls) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/SuryanshVermon/leetcode-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SuryanshVermon/leetcode-problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/SuryanshVermon/leetcode-problems/tree/master/3395-minimum-length-of-anagram-concatenation) |
 ## Dynamic Programming
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2755-extra-characters-in-a-string) |
 | [2756-buy-two-chocolates](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2756-buy-two-chocolates) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/SuryanshVermon/leetcode-problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/SuryanshVermon/leetcode-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SuryanshVermon/leetcode-problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SuryanshVermon/leetcode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -550,14 +552,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0214-shortest-palindrome) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/SuryanshVermon/leetcode-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0214-shortest-palindrome) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/SuryanshVermon/leetcode-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0214-shortest-palindrome) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/SuryanshVermon/leetcode-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Trie
 |  |
 | ------- |
@@ -565,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2755-extra-characters-in-a-string) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/SuryanshVermon/leetcode-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SuryanshVermon/leetcode-problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Queue
 |  |
