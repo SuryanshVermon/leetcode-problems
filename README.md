@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
+| [1558-course-schedule-iv](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1558-course-schedule-iv) |
 | [2035-count-sub-islands](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2035-count-sub-islands) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Binary Tree
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1325-path-with-maximum-probability) |
+| [1558-course-schedule-iv](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2803-modify-graph-edge-weights](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2803-modify-graph-edge-weights) |
 ## Heap (Priority Queue)
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0322-coin-change) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
+| [1558-course-schedule-iv](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1558-course-schedule-iv) |
 | [2035-count-sub-islands](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2035-count-sub-islands) |
 ## Union Find
 |  |
@@ -601,5 +604,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [1558-course-schedule-iv](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 <!---LeetCode Topics End-->
