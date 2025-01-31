@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0837-most-common-word) |
+| [0854-making-a-large-island](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0860-design-circular-queue) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
+| [0854-making-a-large-island](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0854-making-a-large-island) |
 | [0898-transpose-matrix](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0898-transpose-matrix) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1704-special-positions-in-a-binary-matrix) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0386-lexicographical-numbers) |
 | [0684-redundant-connection](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0854-making-a-large-island](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0322-coin-change](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0322-coin-change) |
 | [0684-redundant-connection](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0854-making-a-large-island) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/SuryanshVermon/leetcode-problems/tree/master/1558-course-schedule-iv) |
@@ -433,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/SuryanshVermon/leetcode-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2035-count-sub-islands) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/SuryanshVermon/leetcode-problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
